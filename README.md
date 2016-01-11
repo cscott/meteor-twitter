@@ -10,6 +10,6 @@ meteor add cscottnet:twitter
 
 ## License
 
-Copyright (c) 2014 C. Scott Ananian
+Copyright (c) 2014-2016 C. Scott Ananian
 
 Licensed under GPLv2.
